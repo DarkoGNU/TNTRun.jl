@@ -3,6 +3,9 @@ uuid = "334e74cb-74be-444d-ba61-14dc7a855cf1"
 authors = ["DarkoGNU"]
 version = "0.1.0"
 
+[deps]
+PiCraft = "6cc4b21d-cec8-58d5-a373-5cd579ce5971"
+
 [compat]
 julia = "1"
 
