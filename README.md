@@ -12,3 +12,5 @@ fillArena(getPos(), 20, 25, 3) - refill the area created above (you must stand o
 runMode() - make the sand and TNT disappear under your feet!
 
 Multiplayer - it should work, but it probably isn't. We need to repair this.
+
+Sorry if this repo is a mess, but I'm a newbie :)
