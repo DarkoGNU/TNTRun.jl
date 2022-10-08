@@ -6,6 +6,8 @@
 
 TNT Run minigame in PiCraft.jl
 
+Video: [YouTube](https://youtu.be/95725ARoPxE)
+
 Example usage:
 
 - buildArena(getPos(), 20, 25, 3) - build an arena in position of the player, 20 length, 25 width, 3 floors
